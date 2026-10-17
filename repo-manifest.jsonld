@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ultralytics/ultralytics/commit/f413c7b2a603469bfcd17cf01671baba3b030eb4",
       "git:hexsha": "f413c7b2a603469bfcd17cf01671baba3b030eb4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:41:18.639675+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ultralytics/ultralytics/commit/dce4efce48a05e028e6ec430045431c242e52484",
