@@ -1,0 +1,11 @@
+{
+  "org": "ultralytics",
+  "repo": "ultralytics",
+  "versions": [
+    {
+      "commit": "f413c7b2a603469bfcd17cf01671baba3b030eb4",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:41:18.643775+00:00"
+    }
+  ]
+}
